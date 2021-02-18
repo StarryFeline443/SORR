@@ -1,0 +1,4 @@
+displayName = [c/919191:Sh][c/767676:ad][c/5C5C5C:ows ][c/1C1C1C:Of ][c/0040FF:Ra][c/00B4FF:yv][c/00FFF9:in]
+author = Starryfeline443 & NightmareClaw
+version = 0.0.1.5
+homepage = https://discord.gg/wHFSzUsxjV

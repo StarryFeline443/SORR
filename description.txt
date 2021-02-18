@@ -1,0 +1,51 @@
+                         [c/FF0000:| - Mod In Beta - |]
+                      [c/FF0000:| - Subject to Change - |]
+                      
+Join our Discord to keep updated with the development of this mod. We take suggestions so your idea might be added! To Join our Discord click the "view mod homepage" button bellow!
+
+Shadows of Rayvin is a work in progress mod that is trying to follow in the foot steps of large content mods such as Calamity or Thorium.
+This mod aims to add in lots of new experiences to the current game of Terraria.
+
+Please Note Most Items Are NOT Available In Game Unless you use a cheat mod like hero's mod or cheat sheet 
+
+Shadows of Rayvin currently adds:
+
+- 70 new items
+- 1 new town NPC
+- 2 new debuffs
+- 5 armor sets
+- 1 new pet
+- 2 new enemies
+
+There will be new features coming soon including:
+
+- New items
+- New town npcs
+- New bosses
+- New events
+- New character classes
+- New enemies
+- New Pets
+- New Armor Sets & Accesories
+- New Biomes
+- Dimensions
+- New Ores
+- New world gen
+- New structures
+- Support for Mr. Plauges Race Mod!
+
+Change Logs:
+
+Update 0.0.1.5 (First Update):
+- Currently there are 14 new flamethrowers added, each following a similar crafting path to the Terrablade with the crafting path continuing post moonlord.
+- Gold Hoarder Npc added currently with no use.
+- Doom 2016/Doom Eternal reference items added.
+- Castle Crashers inspired melee weapons added.
+- Starry Dev Set added
+- 2 new post moon-lord weapons: Outer God's Wrath and Tome of Cosmic Luck added
+- Electrum armor sets, Electrum Scrap, Electrum Slime, and electrum drone added.
+- Soul Edge Variants added
+- Flare Gun upgrades added
+- Unlimited Gel ammo added
+- Dead Cells armor set added
+- Celestite Bars added
